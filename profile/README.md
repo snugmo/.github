@@ -1,11 +1,6 @@
 <p align="center">
-  <img src="https://avatars.githubusercontent.com/u/339198347?s=200" width="120" alt="Snugmo logo: The Bond" />
-</p>
-
-<h1 align="center">snugmo</h1>
-
-<p align="center">
-  <em>A snug little home for your agents' dev environment.</em>
+  <img src="banner.webp" width="100%"
+       alt="snugmo — A snug little home for your agents' dev environment. A badger-beaver in a peach-shaped knitted cap sits by a fireplace, hugging a glowing pink capsule that holds a terminal and an agent." />
 </p>
 
 ---
