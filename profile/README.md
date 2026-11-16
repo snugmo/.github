@@ -13,7 +13,7 @@ Our logo, *The Bond*, is a soft capsule holding a single molecule: the bond betw
 
 | Project | What it is | Status |
 | --- | --- | --- |
-| **cote** | Base OCI image for the Snugmo agent dev environment — a shelter where a human and an agent work side by side. | 🚧 in the oven |
+| [**cote**](https://github.com/snugmo/cote) | Base OCI image for the Snugmo agent dev environment — a shelter where a human and an agent work side by side. | 🚧 in the oven |
 | [**flue**](https://github.com/snugmo/flue) | A narrow channel from your host's SSH agent into the cote. Forwards `SSH_AUTH_SOCK` into containers with host-side filtering, so `git push` works without handing your keys to the agent. | 🔥 early |
 | [**inglenook**](https://github.com/snugmo/inglenook) | A bootc OS image — a small Linux desktop to sit by the fire and reach your dev environment from. | 🔥 early |
 
